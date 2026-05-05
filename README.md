@@ -10,7 +10,7 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKoene&layout=compact&theme=radical)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKoene&theme=tokyonight)
 
 <p align="center">
   <a href="https://skillicons.dev">
