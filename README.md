@@ -10,11 +10,7 @@
   </a>
 </p>
 
-<div style="width: 200px;">
-  <a href="https://https://github.com/JuliaKoene/JuliaKoene">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKoene&langs_count=8" alt="Top Langs" />
-  </a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKoene&layout=compact&theme=radical)   
 
 <p align="center">
   <a href="https://skillicons.dev">
