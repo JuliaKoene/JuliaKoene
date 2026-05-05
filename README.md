@@ -11,7 +11,7 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKoene&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKoene&layout=compact&theme=dracula)   
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,autocad,bash,blender,c,cs,cpp,cassandra,git,github,godot,html,java,mongodb,mysql,opencv,php,postgres,py,react,redis,vscode" />
