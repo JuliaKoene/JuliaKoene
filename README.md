@@ -1,7 +1,7 @@
 ## Hi there, I'm Julia Koene
 
 <p align="center">
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]((https://www.linkedin.com/in/julia-koene-moreira-da-silva-01b04923b/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-koene-moreira-da-silva-01b04923b/)
   
   <a href="mailto:juliakoenemoreira11@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -9,9 +9,9 @@
 </p>
 
 <div style="width: 200px;">
-<a href="https://github.com/JuliaKoene/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKoene&langs_count=8" alt="Top Langs" />
-</a>
+  <a href="https://https://github.com/JuliaKoene/JuliaKoene">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKoene&langs_count=8" alt="Top Langs" />
+  </a>
 </div>
 
 <p align="center">
