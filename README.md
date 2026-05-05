@@ -1,10 +1,12 @@
 ## Hi there, I'm Julia Koene
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-koene-moreira-da-silva-01b04923b/)
+  <a href="https://www.linkedin.com/in/julia-koene-moreira-da-silva-01b04923b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   
   <a href="mailto:juliakoenemoreira11@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
