@@ -1,10 +1,12 @@
 ## Hi there, I'm Julia Koene
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]((https://www.linkedin.com/in/julia-koene-moreira-da-silva-01b04923b/))
-
-<a href="mailto:juliakoenemoreira11@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]((https://www.linkedin.com/in/julia-koene-moreira-da-silva-01b04923b/))
+  
+  <a href="mailto:juliakoenemoreira11@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <div style="width: 200px;">
 <a href="https://github.com/JuliaKoene/github-readme-stats">
@@ -14,6 +16,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,autocad,bash,blender,c,cs,cpp,cassandra,git,github,godot,html,java,mongodb,mysql,opencv,phppostgres,py,react,redis,vscode" />
+    <img src="https://skillicons.dev/icons?i=anaconda,autocad,bash,blender,c,cs,cpp,cassandra,git,github,godot,html,java,mongodb,mysql,opencv,php,postgres,py,react,redis,vscode" />
   </a>
 </p>
